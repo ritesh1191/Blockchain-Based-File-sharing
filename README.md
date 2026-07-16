@@ -126,8 +126,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hacknovas/UnCloud.git
-cd UnCloud
+git clone https://github.com/ritesh1191/Blockchain-Based-File-sharing.git
+cd Blockchain-Based-File-sharing
 ```
 
 ### 2. Install Backend Dependencies
